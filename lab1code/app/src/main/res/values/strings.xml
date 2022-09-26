@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab 1 code</string>
+    <string name="age_calculator">Age Calculator</string>
+    <string name="year">Year</string>
+    <string name="day">Day</string>
+    <string name="reset">Reset</string>
+    <string name="calculate">Calculate</string>
+    <string name="month">Month</string>
+</resources>
